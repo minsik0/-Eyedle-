@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: notify-service
+server:
+  port: 19700
